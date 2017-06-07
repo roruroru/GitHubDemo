@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace Bye
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, C#!");
-            Console.WriteLine("Bye, C++!");
+            Console.WriteLine("Bye Bye!"); 
         }
     }
 }
